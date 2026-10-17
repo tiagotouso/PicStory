@@ -2,7 +2,7 @@
 
 2 foto(s).
 
-[← Voltar ao índice](../README.md)
+[← Voltar ao índice](../../README.md)
 
 ## 2026-10-17 20:36
 
