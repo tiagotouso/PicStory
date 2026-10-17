@@ -1,11 +1,17 @@
 {
-  "updated_at": "2026-10-17T20:40:57Z",
+  "updated_at": "2026-10-17T20:41:22Z",
   "albums": [
     {
       "title": "Pessoais",
       "slug": "pessoais",
       "count": 2,
       "path": "albums/pessoais/README.md"
+    },
+    {
+      "title": "Testes",
+      "slug": "testes",
+      "count": 1,
+      "path": "albums/testes/README.md"
     }
   ]
 }
