@@ -2,6 +2,16 @@
 
 Fotos publicadas pelo SocialBot.
 
+## 2026-10-17 20:36
+
+![1792269407-RUAhZbu2tvsD5DkKN9nFoO6Z.jpg](https://raw.githubusercontent.com/tiagotouso/PicStory/main/media/ig/1792269407-RUAhZbu2tvsD5DkKN9nFoO6Z.jpg)
+
+> Se depender de mim, o dia só começa depois das 10 😴
+> Cama, sono e zero pressa — combinação perfeita.
+> Quem mais é assim?
+>
+> #sono #descanso #vidaleve #bomdia
+
 ## 2026-10-17 20:35
 
 ![1792269343-J3qlB3wxQcq83wylOO_jgEqU.jpg](https://raw.githubusercontent.com/tiagotouso/PicStory/main/media/ig/1792269343-J3qlB3wxQcq83wylOO_jgEqU.jpg)
