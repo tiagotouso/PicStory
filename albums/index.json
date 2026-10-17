@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T21:36:18Z",
+  "updated_at": "2026-10-17T21:36:25Z",
   "albums": [
     {
       "title": "Empretec Startup Uberaba",
       "slug": "empretec-startup-uberaba",
-      "count": 2,
+      "count": 3,
       "path": "albums/empretec-startup-uberaba/README.md"
     }
   ]
