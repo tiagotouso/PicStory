@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-10-17T20:40:32Z",
+  "albums": [
+    {
+      "title": "Pessoais",
+      "slug": "pessoais",
+      "count": 2,
+      "path": "albums/pessoais/README.md"
+    }
+  ]
+}
