@@ -1,8 +1,16 @@
 # Empretec Startup Uberaba 📸
 
-4 foto(s).
+5 foto(s).
 
 [← Voltar ao índice](../../README.md)
+
+## 2026-10-18 00:53
+
+[![1792284828-WMHGmFbbOHPWqYczluHa6sJo.jpg](https://raw.githubusercontent.com/tiagotouso/PicStory/main/media/ig/1792284828-WMHGmFbbOHPWqYczluHa6sJo.jpg)](https://raw.githubusercontent.com/tiagotouso/PicStory/main/media/ig/1792284828-WMHGmFbbOHPWqYczluHa6sJo.jpg)
+
+> Priscila, Sandro, Isac, Tiago e as famílias reunidos no encontro dos empretecos na Fornace 🍕🤝
+>
+> #empretec #empretecstartup #uberaba #empreendedorismo #networking #pizzariafornace
 
 ## 2026-10-17 22:04
 
